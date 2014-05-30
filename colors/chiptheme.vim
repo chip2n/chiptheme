@@ -14,7 +14,7 @@ let g:colors_name = "chiptheme"
 
 hi IncSearch guifg=#ffff00 guibg=#0000ff guisp=#0000ff gui=bold ctermfg=11 ctermbg=21 cterm=bold
 "hi WildMenu -- no settings --
-"hi SignColumn -- no settings --
+hi SignColumn guibg=#171616
 hi SpecialComment guifg=#DDDD00 guibg=NONE guisp=NONE gui=NONE ctermfg=184 ctermbg=NONE cterm=NONE
 hi Typedef guifg=#ffa500 guibg=NONE guisp=NONE gui=NONE ctermfg=214 ctermbg=NONE cterm=NONE
 hi Folded guifg=#666060 guibg=#171616 guisp=#737373 gui=NONE ctermfg=254 ctermbg=243 cterm=NONE
@@ -64,12 +64,12 @@ hi WarningMsg guifg=#ff0000 guibg=#f8f8ff guisp=#f8f8ff gui=bold ctermfg=196 cte
 "hi VisualNOS -- no settings --
 "hi DiffDelete -- no settings --
 "hi ModeMsg -- no settings --
-hi Define guifg=#f2b009 guibg=NONE guisp=NONE gui=NONE ctermfg=213 ctermbg=NONE cterm=NONE
+hi Define guifg=#bf728f guibg=NONE guisp=NONE gui=NONE ctermfg=213 ctermbg=NONE cterm=NONE
 hi Function guifg=#60DD60 guibg=NONE guisp=NONE gui=NONE ctermfg=77 ctermbg=NONE cterm=NONE
 "hi FoldColumn -- no settings --
 hi PreProc guifg=#bf728f guibg=NONE guisp=NONE gui=NONE ctermfg=132 ctermbg=NONE cterm=NONE
 "hi EnumerationName -- no settings --
-hi Visual guifg=#556b2f guibg=#f8f8ff guisp=#f8f8ff gui=NONE ctermfg=101 ctermbg=189 cterm=NONE
+hi Visual guifg=#666060 guibg=#171616 guisp=#f8f8ff gui=NONE ctermfg=101 ctermbg=189 cterm=NONE
 "hi MoreMsg -- no settings --
 "hi SpellCap -- no settings --
 hi VertSplit guifg=#171616 guibg=#222020
