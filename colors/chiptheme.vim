@@ -18,7 +18,7 @@ hi SignColumn guibg=#171616
 hi SpecialComment guifg=#DDDD00 guibg=NONE guisp=NONE gui=NONE ctermfg=184 ctermbg=NONE cterm=NONE
 hi Typedef guifg=#ffa500 guibg=NONE guisp=NONE gui=NONE ctermfg=214 ctermbg=NONE cterm=NONE
 hi Folded guifg=#666060 guibg=#171616 guisp=#737373 gui=NONE ctermfg=254 ctermbg=243 cterm=NONE
-hi PreCondit guifg=#ee7ae9 guibg=NONE guisp=NONE gui=NONE ctermfg=213 ctermbg=NONE cterm=NONE
+hi PreCondit guifg=#bf728f guibg=NONE guisp=NONE gui=NONE ctermfg=213 ctermbg=NONE cterm=NONE
 hi Include guifg=#bf728f guibg=NONE guisp=NONE gui=NONE ctermfg=213 ctermbg=NONE cterm=NONE
 "hi TabLineSel -- no settings --
 "hi StatusLineNC -- no settings --
