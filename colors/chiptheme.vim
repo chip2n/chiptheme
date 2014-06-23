@@ -55,7 +55,7 @@ hi Number guifg=#FF7070 guibg=NONE guisp=NONE gui=bold ctermfg=9 ctermbg=NONE ct
 hi Boolean guifg=#d2b48c guibg=NONE guisp=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
 hi Operator guifg=#5ba7c2 guibg=NONE guisp=NONE gui=NONE ctermfg=74 ctermbg=NONE cterm=NONE
 hi CursorLine guibg=#171616
-hi CursorLineNr guifg=#ffffff
+hi CursorLineNr guifg=#f8f8ff
 hi CursorColumn guibg=#171616
 "hi Union -- no settings --
 "hi TabLineFill -- no settings --
@@ -77,7 +77,7 @@ hi Exception guifg=#ffa500 guibg=NONE guisp=NONE gui=NONE ctermfg=214 ctermbg=NO
 hi Keyword guifg=#ffa500 guibg=NONE guisp=NONE gui=NONE ctermfg=214 ctermbg=NONE cterm=NONE
 hi Type guifg=#bf728f guibg=NONE guisp=NONE gui=NONE ctermfg=132 ctermbg=NONE cterm=NONE
 "hi DiffChange -- no settings --
-hi Cursor guifg=#000000 guibg=#ffffff guisp=#00ee00 gui=NONE ctermfg=NONE ctermbg=10 cterm=NONE
+hi Cursor guifg=#000000 guibg=#f8f8ff guisp=#00ee00 gui=NONE ctermfg=NONE ctermbg=10 cterm=NONE
 "hi SpellLocal -- no settings --
 hi Error guifg=NONE guibg=#cd0000 guisp=#cd0000 gui=NONE ctermfg=NONE ctermbg=160 cterm=NONE
 hi PMenu guifg=#dddddd guibg=#545658 guisp=#545658 gui=NONE ctermfg=253 ctermbg=240 cterm=NONE
@@ -85,7 +85,7 @@ hi SpecialKey guifg=#87ceeb guibg=NONE guisp=NONE gui=NONE ctermfg=117 ctermbg=N
 hi Constant guifg=#FF7070 guibg=NONE guisp=NONE gui=NONE ctermfg=9 ctermbg=NONE cterm=NONE
 "hi DefinedName -- no settings --
 hi Tag guifg=#DDDD00 guibg=NONE guisp=NONE gui=NONE ctermfg=184 ctermbg=NONE cterm=NONE
-hi String guifg=#ffffff guibg=NONE guisp=NONE gui=bold ctermfg=101 ctermbg=NONE cterm=bold
+hi String guifg=#f8f8ff guibg=NONE guisp=NONE gui=bold ctermfg=101 ctermbg=NONE cterm=bold
 hi PMenuThumb guifg=NONE guibg=#a4a6a8 guisp=#a4a6a8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
 "hi MatchParen -- no settings --
 "hi LocalVariable -- no settings --
