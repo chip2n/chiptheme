@@ -12,6 +12,7 @@ endif
 set t_Co=256
 let g:colors_name = "chiptheme"
 
+hi ColorColumn guibg=#171616
 hi IncSearch guifg=#ffff00 guibg=#0000ff guisp=#0000ff gui=bold ctermfg=11 ctermbg=21 cterm=bold
 "hi WildMenu -- no settings --
 hi SignColumn guibg=#171616
@@ -21,7 +22,8 @@ hi Folded guifg=#666060 guibg=#171616 guisp=#737373 gui=NONE ctermfg=254 ctermbg
 hi PreCondit guifg=#bf728f guibg=NONE guisp=NONE gui=NONE ctermfg=213 ctermbg=NONE cterm=NONE
 hi Include guifg=#bf728f guibg=NONE guisp=NONE gui=NONE ctermfg=213 ctermbg=NONE cterm=NONE
 "hi TabLineSel -- no settings --
-"hi StatusLineNC -- no settings --
+hi StatusLineNC guifg=#171616 guibg=#ffffff
+hi StatusLine guifg=#171616 guibg=#ffffff
 "hi CTagsMember -- no settings --
 hi NonText guifg=#bf728f guibg=#0d0c0b guisp=#262626 gui=NONE ctermfg=184 ctermbg=235 cterm=NONE
 "hi CTagsGlobalConstant -- no settings --
@@ -37,7 +39,6 @@ hi StorageClass guifg=#ffa500 guibg=NONE guisp=NONE gui=NONE ctermfg=214 ctermbg
 "hi Todo -- no settings --
 hi Special guifg=#bf728f guibg=NONE guisp=NONE gui=NONE ctermfg=132 ctermbg=NONE cterm=NONE
 hi LineNr guifg=#666060 guibg=#171616 guisp=#2e2a26 gui=NONE ctermfg=95 ctermbg=236 cterm=NONE
-"hi StatusLine -- no settings --
 hi Normal guifg=#f8f8ff guibg=#0d0c0b guisp=#0d0c0b gui=NONE ctermfg=189 ctermbg=232 cterm=NONE
 hi Label guifg=#ffa500 guibg=NONE guisp=NONE gui=NONE ctermfg=214 ctermbg=NONE cterm=NONE
 "hi CTagsImport -- no settings --
