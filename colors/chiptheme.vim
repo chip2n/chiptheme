@@ -25,7 +25,7 @@ hi Include guifg=#bf728f guibg=NONE guisp=NONE gui=NONE ctermfg=213 ctermbg=NONE
 hi StatusLineNC guifg=#171616 guibg=#ffffff
 hi StatusLine guifg=#171616 guibg=#ffffff
 "hi CTagsMember -- no settings --
-hi NonText guifg=#bf728f guibg=#0d0c0b guisp=#262626 gui=NONE ctermfg=184 ctermbg=235 cterm=NONE
+hi NonText guifg=#8eabbd guibg=#0d0c0b guisp=#262626 gui=NONE ctermfg=184 ctermbg=235 cterm=NONE
 "hi CTagsGlobalConstant -- no settings --
 "hi DiffText -- no settings --
 "hi ErrorMsg -- no settings --
